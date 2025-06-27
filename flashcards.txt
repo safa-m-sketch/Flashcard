@@ -1,0 +1,3 @@
+What is the capital of Texas?|Austin
+What is 3*2?|6
+What is the fastest animal in the world?|Cheetah
